@@ -1,0 +1,1 @@
+{"version":1,"defects":{"CatalogTest::testProductsSortedByPrice":4,"CatalogTest::testProductsSortedBySalesPerView":4},"times":{"CatalogTest::testProductsSortedByPrice":0.004,"CatalogTest::testProductsSortedBySalesPerView":0}}

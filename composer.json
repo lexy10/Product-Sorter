@@ -1,0 +1,20 @@
+{
+    "name": "lexy/catalog-sorter-scnip",
+    "description": "Product Catalog Sorting Solution for Scnip",
+    "autoload": {
+        "psr-4": {
+            "Lexy\\CatalogSorterScnip\\": "src/",
+            "App\\": "src/Classes/",
+            "App\\Interfaces\\": "src/Interfaces/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lexy",
+            "email": "olakunle.irantiola@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.6"
+    }
+}
